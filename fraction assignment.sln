@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fraction assignment", "fraction assignment.vcxproj", "{29606381-04FD-4F62-9A47-50960040F3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Debug|x64.ActiveCfg = Debug|x64
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Debug|x64.Build.0 = Debug|x64
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Debug|x86.Build.0 = Debug|Win32
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Release|x64.ActiveCfg = Release|x64
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Release|x64.Build.0 = Release|x64
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Release|x86.ActiveCfg = Release|Win32
+		{29606381-04FD-4F62-9A47-50960040F3CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADB1180-0771-41BB-B947-827DDD7B80EC}
+	EndGlobalSection
+EndGlobal
